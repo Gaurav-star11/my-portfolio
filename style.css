@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(57, 8, 105);
+    overflow-x: hidden;
+}
+
+.qq{
+    color: Yellow;
+    margin-left: 600px;
+
+}
+.main{
+    color: white;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    justify-content:center;
+    text-decoration: none;
+}
+ul{
+    gap: 60px;
+    display: flex;
+    list-style: none;
+    margin-top: 30px;
+    font-size: larger;
+    top: 0;
+    
+}
+.form{
+    margin-left: 500px;
+}
+.ll{
+    column-rule: red;
+    margin-top: 30px;
+}
+h1{
+    color: white;
+}
+h3{
+    color: white;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+strong{
+    color: red;
+}
+.box1{
+     margin-top: 150px; 
+    margin-left: 100px;
+}
+p{
+    color: white;
+    font-size: larger;
+    margin-right: 60px;
+}
+#aa{
+    background-color: purple;
+    height: 40px;
+    width: 100px;
+    border-radius: 2px;
+    margin-left: 160px;
+    margin-top: 60px;
+}
+#bb{
+    background-color: Yellow;
+    height: 40px;
+    width: 140px;
+    border-radius: 2px;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+.submain{
+    
+    display: flex;
+}
+/* img{
+    margin-top: 80px;
+    height: 600px;
+    width: 600px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+   
+    
+} */
+a:hover{
+    background-color: rgb(111, 182, 228);
+    opacity: 0.6;
+}
+#bb a{
+    color: black;
+    background-color: yellow;
+    
+
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+button:hover{
+    background-color: rgb(101, 101, 241);
+    opacity: 0.5;
+}
+.ww{
+    margin-left: 150px;
+    font-size: large;
+    color: white;
+    margin-top: 25px;
+}
+
+img{
+    height: 100px;
+    width: 150px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 150px;
+}
+.partialmain{
+    display: flex;
+    gap: 1px;
+    margin-right: 20px;
+}
+
+.minimain{
+    display: flex;
+    margin-bottom: 35px;
+    margin-top: 35px;
+}
+.mm{
+    height: 300px;
+    width: 500px;
+    border: none
+}
+.cv{
+    margin-left: 600px;
+    color: white;
+}
+.form{
+    margin-left: 5-00px;
+
+}
+.sds{
+    background-color: blueviolet;
+    color: white;
+    height: 30px;
+    width: 100px;
+    margin-left: 30px;
+}
+ button{
+    color: white;
+    background-color: blueviolet;
+    height: 55px;
+    width: 225px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+.qv button h1{
+    background: transparent;
+    border-radius: 20px;
+
+}
+input{
+    height: 30px;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+.hjh h1{
+    text-align: center;
+}
+.mm{
+    height: 500px;
+    width: 600px;
+}
+.blog{
+    display: flex;
+    margin-top: 5%;
+    
+    gap: 30px;
+
+}
+ 
+.p{
+    background-color: rgb(233, 231, 236);
+    padding: 10px;
+    text-align: justify;
+    height: 342px;
+    margin-bottom: 50px;
+    color: black;
+    box-shadow: 2px 2px 10px 1px grey;
+}
+.p:hover{
+   
+   margin-top: -10px;
+   transition: .5s ease-in-out;
+}px
+.photo{
+    background-color: blueviolet;
+}
+.rr,.fg,.kl{
+    height: 230px;
+    width: 422px;
+    margin-right: 200px;
+    margin-left: -2px;
+    margin-bottom: 50px;
+}
