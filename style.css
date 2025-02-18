@@ -129,7 +129,8 @@ img{
 .mm{
     height: 300px;
     width: 500px;
-    border: none
+    border: none;
+    border-radius:30px;
 }
 .cv{
     margin-left: 600px;
@@ -142,9 +143,9 @@ img{
 .sds{
     background-color: blueviolet;
     color: white;
-    height: 40px;
-    width: 120px;
-    margin-left: 60px;
+    height: 45px;
+    width: 140px;
+    margin-left: 80px;
 }
  button{
     color: white;
